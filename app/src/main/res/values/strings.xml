@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">eConcern</string>
+    <string name="title_activity_empty">EmptyActivity</string>
+    <string name="usertype_list_prompt">Choose</string>
+    <string-array name="usertype_list">
+        <item>Student</item>
+        <item>Teacher/Professor</item>
+        <item>Employee/staff</item>
+
+    </string-array>
+</resources>
